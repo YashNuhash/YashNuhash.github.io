@@ -25,7 +25,7 @@ Skills: C / C++ / JAVA / HTML / CSS / JAVA SCRIPT
 ![](https://github-profile-trophy.vercel.app/?username=yashnuhash&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashnuhash&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
 
