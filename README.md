@@ -9,21 +9,28 @@ Skills: C / C++ / JAVA / HTML / CSS / JAVA SCRIPT
 - 🔭 I’m currently working on My Brain 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yashnuhash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/YashNuhash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.commclassroom.org/)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnuhash&label=Profile%20views&color=0e75b6&style=flat" alt="yashnuhash" /> </p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashnuhash" alt="yashnuhash" /></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashnuhash)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://twitter.com/@yashnuhash" target="blank"><img src="https://img.shields.io/twitter/follow/@yashnuhash?logo=twitter&style=for-the-badge" alt="@yashnuhash" /></a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashnuhash&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@yashnuhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashnuhash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashnuhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashnuhash" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/yash nuhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yash nuhash" height="30" width="40" /></a>
+<a href="https://hashnode.com/@yashnuhsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@yashnuhsh" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashnuhash)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/yashnuhash)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnuhash&show_icons=true&locale=en&layout=compact" alt="yashnuhash" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashnuhash)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashnuhash&show_icons=true&locale=en" alt="yashnuhash" /></p>
 
-![Profile views](https://gpvc.arturio.dev/yashnuhash)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashnuhash&" alt="yashnuhash" /></p>  
 
 
 
