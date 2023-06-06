@@ -5,8 +5,11 @@
 
 
 
-## 🌐 Socials: ![](https://i.imgur.com/waxVImv.png)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YashNuhash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashNuhash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashNuhash) 
+# 🌐 Socials: ![](https://i.imgur.com/waxVImv.png)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YashNuhash)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashNuhash)
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashNuhash) 
 
 
 # 💻 Tech Stack: ![](https://i.imgur.com/waxVImv.png)
@@ -19,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashNuhash&" alt="NUHASHROXME" /></p>
 
-### 🔝 Top Contributed Repo ![](https://i.imgur.com/waxVImv.png)
+# 🔝 Top Contributed Repositories ![](https://i.imgur.com/waxVImv.png)
 ![](https://github-contributor-stats.vercel.app/api?username=YashNuhash&limit=5&theme=flat&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=YashNuhash&icon=0&color=0)](https://visitcount.itsvg.in)
