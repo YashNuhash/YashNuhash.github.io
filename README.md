@@ -10,7 +10,8 @@
 # 💻Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,js,html,css,java,nodejs,react,bootstrap,tailwind,kubernetes,docker,mongodb," />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,js,html,css,java"/> </br>
+     <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap,tailwind,kubernetes,docker,mongodb"/>
   </a>
 </p>
 
